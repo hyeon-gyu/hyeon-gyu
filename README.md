@@ -11,7 +11,7 @@
 - 📫 How to reach me: hyungue729@naver.com
 - 📫 How to reach me: hyeungyuuuuu@gmail.com
 
-<div><h3>📚STACKS</h3></div>
+<div><h3>📚USING STACKS</h3></div>
 <div>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
